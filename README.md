@@ -136,9 +136,9 @@ This project demonstrates how Hadoop (HDFS, MapReduce, Hive) can transform raw e
 
 ## 👨‍💻 Team members of Group B
 
-- Aman Bhardwaj
+- Aman Kumar Pandey
 - Abhishek Dwivedi  
-- Aman Kumar Pandey  
+- Aman Bhardwaj  
 
 ---
 
